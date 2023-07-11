@@ -1,0 +1,3 @@
+tr_to_int = atoi(argv[count]); /*ATOI --> convert string to int*/
+      |                 ^~~~
+      |                 _atoi
